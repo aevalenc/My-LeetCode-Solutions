@@ -9,3 +9,5 @@
 /.cache/
 # Clang-format style format
 /.clang-format
+# Clang-format style format
+/.clang-tidy
