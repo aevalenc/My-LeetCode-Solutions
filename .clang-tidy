@@ -1,1 +1,4 @@
 Checks: "-*,cppcoreguidelines-*,clang-analyzer-*"
+CheckOptions:
+  - key: IgnoredMacros
+    value: "TEST,INSTANTIATE"

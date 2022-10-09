@@ -11,3 +11,5 @@
 /.clang-format
 # Clang-format style format
 /.clang-tidy
+# VScode specific files
+/.vscode/
